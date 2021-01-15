@@ -35,7 +35,7 @@ work with pygame and cv.
 
 ## Music:
 * Race Start Fanfare [Grand Prix & VS]
-* Mario Kart 7 ~Main Titles~
+* Mario Kart 7 Main Title
 
 ###### TO DO:
 Honestly I am likely done with this project. I just wanted a feel for bs4, pg, and cv. In hindsight I would not have used threading, 
