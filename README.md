@@ -14,18 +14,18 @@
 * Allow for streaks! (ie: 3 births in a row, 6 deaths in a row, etc [all multiples of 3])
 
 ## :package: Modules / Packages:
-1. pygame (https://www.pygame.org/news)
-2. os (https://docs.python.org/3/library/os.html)
-3. bs4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-4. requests (https://requests.readthedocs.io/en/master/)
-5. pandas (https://pandas.pydata.org/)
-6. numpy (https://numpy.org/)
-7. re (https://docs.python.org/3/library/re.html)
-8. threading (https://docs.python.org/3/library/threading.html)
-9. time (https://docs.python.org/3/library/time.html)
-10. signal (https://docs.python.org/3/library/signal.html) 
-11. cv2 (https://pypi.org/project/opencv-python/) 
-12. random (https://docs.python.org/3/library/random.html)
+* pygame (https://www.pygame.org/news)
+* os (https://docs.python.org/3/library/os.html)
+* bs4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* requests (https://requests.readthedocs.io/en/master/)
+* pandas (https://pandas.pydata.org/)
+* numpy (https://numpy.org/)
+* re (https://docs.python.org/3/library/re.html)
+* threading (https://docs.python.org/3/library/threading.html)
+* time (https://docs.python.org/3/library/time.html)
+* signal (https://docs.python.org/3/library/signal.html) 
+* cv2 (https://pypi.org/project/opencv-python/) 
+* random (https://docs.python.org/3/library/random.html)
 
 ## :notes: Music:
 * Race Start Fanfare [Grand Prix & VS]
